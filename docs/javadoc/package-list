@@ -1,0 +1,9 @@
+org.linphone.core
+org.linphone.core.tutorials
+org.linphone.core.util
+org.linphone.mediastream
+org.linphone.mediastream.video
+org.linphone.mediastream.video.capture
+org.linphone.mediastream.video.capture.hwconf
+org.linphone.mediastream.video.display
+org.linphone.tools
