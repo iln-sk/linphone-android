@@ -44,7 +44,7 @@ before_install:
 
 script:
   - ./prepare.py -G 'Unix Makefiles'
-  - make
+  - make liblinphone-android-sdk
 
 deploy:
   provider: pages
